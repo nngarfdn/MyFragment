@@ -10,7 +10,9 @@
     <string name="to_profile">Ke Halaman Profile Activity</string>
     <string name="show_dialog">Tampilkan sebuah dialog</string>
     <string name="hello_home_fragment">Hello Ini Home Fragment</string>
+    <string name="hello_category_fragment">Hello Ini Category Fragment</string>
     <string name="to_category">Ke fragment Category</string>
+    <string name="to_home">Ke fragment Home</string>
     <string name="question_coach">Siapa pelatih tersukses Machester United?</string>
     <string name="sir_alex_ferguson">Sir Alex Ferguson</string>
     <string name="jose_mourinho">Jose Mourinho</string>
